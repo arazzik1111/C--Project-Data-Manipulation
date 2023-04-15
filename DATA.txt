@@ -1,0 +1,22 @@
+
+[RESTAURATOR]
+Numele: John
+Prenume: Jefrey
+Adresa: New Washington
+CNP: 00000000
+
+[DONATOR]
+Numele: Heracle
+Prenume: Anderson
+Adresa: Somewhere in Mars
+CNP: 69234923742311
+
+[EXPONAT]
+Numele: Venus de Milo
+Descrierea: Statuia zeitei Venus
+Nr-ul de inregistrare: 345
+Sectia: Grecia Antica
+Restaurat: Nu
+Pret: 2000 €
+
+
